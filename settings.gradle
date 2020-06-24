@@ -1,0 +1,2 @@
+rootProject.name='pinch'
+include ':app'
